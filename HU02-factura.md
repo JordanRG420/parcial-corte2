@@ -19,7 +19,7 @@ Mostrar un resumen claro de la factura con información básica del cliente y la
 - Props: `cliente: string`, `fecha: string`.  
 
 ## 📸 Captura de Diseño  
-![Design](pantalla_factura.png)
+![Design](captura_factura.png)
 
 **Prioridad**: Media  
 **Etiquetas**: `HU`, `frontend`, `factura`
