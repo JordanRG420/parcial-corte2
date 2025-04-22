@@ -1,4 +1,4 @@
-# HU-002: Encabezado de Factura  
+# HU02: Encabezado de Factura  
 
 **Como**: Cliente  
 **Quiero**: Ver los datos de mi factura (número, nombre y fecha)  
