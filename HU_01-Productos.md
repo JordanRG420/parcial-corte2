@@ -1,4 +1,4 @@
-# HU-001: Lista de Productos  
+# HU01: Lista de Productos  
 
 **Como**: Cliente  
 **Quiero**: Ver una lista de productos con imágenes y precios  
